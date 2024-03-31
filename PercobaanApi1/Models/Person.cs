@@ -6,6 +6,5 @@
         public string nama { get; set; }
         public string alamat { get; set; }
         public string email { get; set; }
-
     }
 }
